@@ -12,7 +12,7 @@
 ## Releases
 |Library Name|Version|Owner|
 |------------|-------|-----|
-|[Etch-a-Sketch](https://www.desmos.com/calculator/solxh7yn27)|v0.97|Dandyboi
+|[Etch-a-Sketch](https://www.desmos.com/calculator/9wu4afffzb)|v0.97|Dandyboi
 |[Modern Switch](https://www.desmos.com/calculator/zr6ao8axyt)|v2.2|Dandyboi
 
 ## What IS the Desmos Repo?
